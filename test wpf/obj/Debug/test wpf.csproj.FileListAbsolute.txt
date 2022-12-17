@@ -1,0 +1,22 @@
+E:\проекты\test wpf\test wpf\bin\Debug\test wpf.exe.config
+E:\проекты\test wpf\test wpf\bin\Debug\test wpf.exe
+E:\проекты\test wpf\test wpf\bin\Debug\test wpf.pdb
+E:\проекты\test wpf\test wpf\obj\Debug\test wpf.csproj.AssemblyReference.cache
+E:\проекты\test wpf\test wpf\obj\Debug\test wpf.csproj.SuggestedBindingRedirects.cache
+E:\проекты\test wpf\test wpf\obj\Debug\Views\pages\Page1.g.cs
+E:\проекты\test wpf\test wpf\obj\Debug\Views\pages\Page2.g.cs
+E:\проекты\test wpf\test wpf\obj\Debug\Views\Window\MainWindow.g.cs
+E:\проекты\test wpf\test wpf\obj\Debug\App.g.cs
+E:\проекты\test wpf\test wpf\obj\Debug\test wpf_MarkupCompile.cache
+E:\проекты\test wpf\test wpf\obj\Debug\test wpf_MarkupCompile.lref
+E:\проекты\test wpf\test wpf\obj\Debug\Views\pages\Page1.baml
+E:\проекты\test wpf\test wpf\obj\Debug\Views\pages\Page2.baml
+E:\проекты\test wpf\test wpf\obj\Debug\Views\Window\MainWindow.baml
+E:\проекты\test wpf\test wpf\obj\Debug\test wpf.g.resources
+E:\проекты\test wpf\test wpf\obj\Debug\test_wpf.Properties.Resources.resources
+E:\проекты\test wpf\test wpf\obj\Debug\test wpf.csproj.GenerateResource.cache
+E:\проекты\test wpf\test wpf\obj\Debug\test wpf.csproj.CoreCompileInputs.cache
+E:\проекты\test wpf\test wpf\obj\Debug\test wpf.exe
+E:\проекты\test wpf\test wpf\obj\Debug\test wpf.pdb
+E:\проекты\test wpf\test wpf\obj\Debug\Views\pages\Page3.g.cs
+E:\проекты\test wpf\test wpf\obj\Debug\Views\pages\Page3.baml
